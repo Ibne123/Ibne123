@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wall E
+* source:	https://sketchfab.com/3d-models/wall-e-9e4ceeb86ce840dea926441ca40e8cc1
+* author:	RodierGabrielle (https://sketchfab.com/RodierGabrielle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wall E" (https://sketchfab.com/3d-models/wall-e-9e4ceeb86ce840dea926441ca40e8cc1) by RodierGabrielle (https://sketchfab.com/RodierGabrielle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
